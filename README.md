@@ -22,7 +22,7 @@ PaperMind AI lets you upload any research paper PDF and instantly get a clean, s
 
 ## 🚀 Live Demo
 
-🔗 [papermind.vercel.app](https://papermind.vercel.app)
+🔗 [papermind.vercel.app]([https://papermind.vercel.app](https://ai-research-paper-summarizer-zeta.vercel.app/))
 
 > Try it instantly — no account or API key required in demo mode.
 
